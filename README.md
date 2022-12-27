@@ -6,6 +6,6 @@ A portfolio webpage that provides professional information about an individual
 
 • Text editor or IDE(eg, vs code, brackets, etc.)
 
-# Tech Stack
+## Tech Stack
 
 **Client:** HTML, CSS.

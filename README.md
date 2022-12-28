@@ -9,3 +9,4 @@ A portfolio webpage that provides professional information about an individual
 ## Tech Stack
 
 **Client:** HTML, CSS.
+**Server:** Github

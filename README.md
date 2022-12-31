@@ -12,6 +12,6 @@ A portfolio webpage that provides professional information about an individual
 
 **Server:** Github
 
-# Demo
+## Demo
 
 https://pokkode.github.io/A-simple-portfolio-webpage

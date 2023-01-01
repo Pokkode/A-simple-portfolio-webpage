@@ -15,3 +15,7 @@ A portfolio webpage that provides professional information about an individual
 ## Demo
 
 https://pokkode.github.io/A-simple-portfolio-webpage
+
+# Authors
+
+- [@Princewill Kalu Orie Orie](https://www.github.com/pokkode)
